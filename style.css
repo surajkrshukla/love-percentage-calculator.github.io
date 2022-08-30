@@ -1,0 +1,39 @@
+.background {
+            position: absolute;
+            top: 20%;
+            left: 30%;
+            align-items: center;
+            background-color: rgb(198, 190, 190);
+            justify-content: space-around;
+            border-radius: 15px;
+            padding: 20px;
+            width: 500px;
+            height: 400px;
+
+        }
+.heading{
+   text-align: center;
+}
+.w-100,.btn{
+    
+    margin: 15px 0px;
+    font-size: 15px;
+}
+.show-now{
+    font-size: 20px;
+    width: 80px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: none;
+}
+.quote{
+    margin: 50px 0px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
